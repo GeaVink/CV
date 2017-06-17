@@ -1,0 +1,41 @@
+body {
+	width 500px;
+    background-color: #ff4500;
+}
+
+/*Picture format*/
+
+img {
+    display: block;
+    margin: 5px;
+    width: 90%;   
+}
+img {
+    border-radius: 50%;
+}
+.container-rubrik {
+	background-color: #ff4500;
+	/*margin : 5px;*/
+	padding: 10px;
+	border: 2px solid #00008B;
+	font-weight: bold;
+}
+
+.container-misc {
+	background-color: #F4A460;
+	margin: 4px;
+	padding: 10px;
+	border: 2px solid #00008B;
+	.p {
+	font-size: 14
+    font-weight: bold;
+	}
+}
+
+ul {
+    border-left: 1px solid #00008B;
+    background-color: #F4A460;
+    list-style-type: none;
+    padding: 10px 20px;
+}
+
